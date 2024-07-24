@@ -1,0 +1,287 @@
+@media screen and (max-width: 1400px) and (min-width: 1200px) {
+    .container {
+        width: 1140px !important;
+        margin: 0 auto;
+    }
+
+    /* Header */
+
+
+    /* End */
+
+    /* Banner */
+
+
+
+    /* End */
+
+    /* Popular Kotegoriya */
+
+    .h2 h2 {
+        font-size: 35px;
+    }
+
+    .h2 a {
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+        font-size: 14px;
+    }
+
+    /* End */
+
+    /* Lider Sell */
+
+
+
+    /* End */
+
+    /* Banner First */
+
+
+
+    /* End */
+
+    /* Aksiya */
+
+
+
+    /* End */
+
+    /* Our Works */
+
+
+
+    /* End */
+
+    /* Footer */
+
+
+
+    /* End */
+}
+
+@media screen and (max-width: 1200px) and (min-width: 800px) {
+    .container {
+        width: 756px;
+    }
+
+    /* Header */
+
+
+
+    /* End */
+
+    /* Banner */
+
+
+
+    /* End */
+
+    /* Popular Kotegoriya */
+
+    .h2 h2 {
+        margin-top: 45px;
+        font-size: 30px;
+    }
+
+    .h2 a {
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+        font-size: 14px;
+    }
+
+    #popular_kotegoriya .boxes {
+        justify-content: center;
+    }
+
+    #popular_kotegoriya .box {
+        height: 300px !important;
+        width: 33% !important;
+    }
+
+    /* End */
+
+    /* Lider Sell */
+
+
+
+    /* End */
+
+    /* Banner First */
+
+
+
+    /* End */
+
+    /* Aksiya */
+
+
+
+    /* End */
+
+    /* Our Works */
+
+
+
+    /* End */
+
+    /* Footer */
+
+
+
+    /* End */
+}
+
+@media screen and (max-width: 800px) and (min-width: 400px) {
+    .container {
+        width: 97%;
+    }
+
+    /* Header */
+
+
+    /* End */
+
+    /* Banner */
+
+
+
+    /* End */
+
+    /* Popular Kotegoriya */
+
+    .h2 h2 {
+        margin-top: 45px;
+        font-size: 30px;
+    }
+
+    .h2 a {
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+        font-size: 14px;
+    }
+
+    #popular_kotegoriya .boxes {
+        justify-content: center !important;
+    }
+
+    #popular_kotegoriya .box {
+        height: auto !important;
+        width: 50% !important;
+        margin: 50px 0;
+    }
+
+    #popular_kotegoriya .box img {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* End */
+
+    /* Lider Sell */
+
+
+    
+    /* End */
+
+    /* Banner First */
+
+
+    
+    /* End */
+
+    /* Aksiya */
+
+
+    
+    /* End */
+
+    /* Our Works */
+
+
+    
+    /* End */
+
+    /* Footer */
+
+
+    
+    /* End */
+}
+
+@media screen and (max-width: 400px) {
+    .container {
+        width: 97%;
+    }
+
+    /* Header */
+
+
+
+    /* End */
+
+
+
+    /* Banner */
+
+
+
+    /* End */
+
+    /* Popular Kotegoriya */
+
+    .h2 h2 {
+        margin-top: 45px;
+        font-size: 30px;
+    }
+
+    #popular_kotegoriya .boxes {
+        justify-content: center !important;
+    }
+
+    #popular_kotegoriya .box {
+        height: auto !important;
+        width: 100% !important;
+        margin: 50px 0;
+    }
+
+    #popular_kotegoriya .box img {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* End */
+
+    /* Lider Sell */
+
+
+
+    /* End */
+
+    /* Banner First */
+
+
+
+    /* End */
+
+    /* Aksiya */
+
+
+
+    /* End */
+
+    /* Our Works */
+
+
+
+    /* End */
+
+    /* Footer */
+
+
+
+    /* End */
+}
