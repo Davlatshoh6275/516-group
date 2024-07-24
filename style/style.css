@@ -17,10 +17,6 @@ body {
 
 #popular_kotegoriya {
     margin: 25px 0;
-
-
-
-
 }
 
 #popular_kotegoriya h2 {
@@ -151,6 +147,7 @@ body {
         width: 50% !important;
         margin: 50px 0;
     }
+
     #popular_kotegoriya .box img {
         width: 100%;
         height: 100%;
