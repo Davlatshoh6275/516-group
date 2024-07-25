@@ -49,6 +49,8 @@ body {
     margin-left: 20px;
     display: flex;
     align-items: center;
+    text-decoration: none !important;
+    color: #000;
 }
 
 .h2 .line {
@@ -70,7 +72,7 @@ body {
     width: 18px;
 }
 
-.h2 a:hover .line{
+.h2 a:hover .line {
     transform: translateX(0);
     display: block;
 }
@@ -79,7 +81,8 @@ body {
     transition: .3s;
     /* transform: translateX(-100%); */
 }
-.h2 a:hover i{
+
+.h2 a:hover i {
     transform: translateX(0) !important;
 }
 
