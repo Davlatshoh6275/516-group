@@ -47,11 +47,46 @@ body {
 #popular_kotegoriya .h2 a {
     margin: 0 7px;
     margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.h2 .line {
+    width: 10px;
+    height: 1.1px;
+    margin-left: 5px !important;
+    background: #000;
+    transform: translateX(500%);
+    transition: .3s;
+    opacity: 1;
+}
+
+.h2 .arrow {
+    overflow: hidden;
+    transition: .3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+}
+
+.h2 a:hover .line{
+    transform: translateX(0);
+    display: block;
 }
 
 #popular_kotegoriya .h2 i {
-    margin-left: 5px !important;
+    transition: .3s;
+    /* transform: translateX(-100%); */
 }
+.h2 a:hover i{
+    transform: translateX(0) !important;
+}
+
+.h2 a:hover .arrow {
+    width: 23px;
+}
+
 
 
 #popular_kotegoriya .boxes {
@@ -69,7 +104,6 @@ body {
     transition: 0.3s;
     cursor: pointer;
     padding: 0 15px;
-    border-radius: 5px;
     height: 400px;
     width: 25%;
     display: flex;
